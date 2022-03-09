@@ -2,7 +2,7 @@
 
 --- 
 
-## Welcome to DevCycle!
+## Welcome to Taplytics!
 
 Check out the following to get yourself up and running
 
