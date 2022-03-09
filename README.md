@@ -1,4 +1,4 @@
-[![header image](/tl-banner.png)](https://app.devCycle.com)
+[![header image](tl-banner.png)](https://app.devCycle.com)
 
 --- 
 
